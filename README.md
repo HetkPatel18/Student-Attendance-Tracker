@@ -58,37 +58,14 @@ If that does not work, try:
 python3 --version
 ```
 
-### 2. Get the Project
-
-Download the project from GitHub and extract it, or clone the
-repository:
-
-``` bash
-git clone https://github.com/{github-username}/{repo-name}.git
-```
-
-### 3. Open the Project Folder
-
-Move into the project directory:
-
-``` bash
-cd {repo-name}
-```
-
 Make sure `main.py` and `tracker.py` are in the same folder.
 
-### 4. Run the Program
+### 2. Run the Program
 
 No dependencies need to be installed. Start the program with:
 
 ``` bash
 python main.py
-```
-
-If `python` does not work on your system, use:
-
-``` bash
-python3 main.py
 ```
 
 The program will create `attendance_data.txt` automatically when you add
