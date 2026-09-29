@@ -200,4 +200,4 @@ The tests cover:
 
 ## Author
 
-Student Attendance Tracker --- Python CLI Project
+Student Attendance Tracker --- Het Ketankumar Patel
